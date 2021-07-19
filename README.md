@@ -1,4 +1,4 @@
-# nucleotide-seq-converter
+# nucleotide sequence converter
 
 The program aims to simulate the central dogma underlying the process of transcription and translation. The transition from DNA > RNA > (Amino acids) Proteins. 
 
