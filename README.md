@@ -1,6 +1,6 @@
 # nucleotide sequence converter
 
-The program aims to simulate the central dogma underlying the process of transcription and translation. The transition from DNA > RNA > (Amino acids) Proteins. 
+The program is aimed to simulate the central dogma underlying the process of transcription and translation. The transition from DNA > RNA > (Amino acids) Proteins. 
 
 Please make sure all the files are extracted into the same folder prior to execution. 
 Any DNA/RNA sequences will be readable as long as filename.seq or its location address is correctly entered.  
